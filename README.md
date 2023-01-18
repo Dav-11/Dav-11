@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dav-11 
 - 🌱 I’m currently learning Rust and Go
-- 💞️ I’m looking to collaborate on nothing at the moment but I get intrested easilly so...
+- 💞️ I’m looking to collaborate on nothing at the moment but I get intrested easily so...
 
 <!---- 👀 I’m interested in --->
 <!---
